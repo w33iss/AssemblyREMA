@@ -1,2 +1,2 @@
 # AssemblyREMA
-x86 Assembly Starter: A collection of introductory assembly programs to kickstart your journey into x86 programming
+Simple x86 programs to get started with assembly language
